@@ -1,4 +1,4 @@
-package ArrayListProblems.StudentManagementSystem_Project;
+package ArrayList.StudentManagementSystem_Project;
 
 import java.util.ArrayList;
 import java.util.Scanner;

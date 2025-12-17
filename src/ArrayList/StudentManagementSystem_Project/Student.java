@@ -1,4 +1,4 @@
-package ArrayListProblems.StudentManagementSystem_Project;
+package ArrayList.StudentManagementSystem_Project;
 
 public class Student {
     private String name;
