@@ -1,4 +1,4 @@
-package ArrayListProblems.TaskManager_Project;
+package ArrayList.TaskManager_Project;
 
 import java.util.ArrayList;
 import java.util.Scanner;

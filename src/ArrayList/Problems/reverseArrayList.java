@@ -1,7 +1,6 @@
-package ArrayListProblems;
+package ArrayList.Problems;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class reverseArrayList {
     public static void main(String[] args) {
